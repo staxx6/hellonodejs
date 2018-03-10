@@ -1,0 +1,25 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staxx6/hellonodejs.git"
+  },
+  "author": "staxx6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staxx6/hellonodejs/issues"
+  },
+  "homepage": "https://github.com/staxx6/hellonodejs#readme"
+}
